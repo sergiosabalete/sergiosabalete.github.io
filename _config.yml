@@ -1,7 +1,7 @@
 # Site
 title:              Crónicas de un observador en serie
-bio:                "El órgano con el que he comprendido el mundo ha sido el ojo". (J. W. Goethe)
-description:        "El órgano con el que he comprendido el mundo ha sido el ojo". (J. W. Goethe)
+bio:                "El órgano con el que he comprendido el mundo ha sido el ojo. (J. W. Goethe)"
+description:        "El órgano con el que he comprendido el mundo ha sido el ojo. (J. W. Goethe)"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
