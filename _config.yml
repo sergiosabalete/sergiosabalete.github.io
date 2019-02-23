@@ -1,7 +1,7 @@
 # Site
 title:              Crónicas de un observador en serie
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+bio:                "El órgano con el que he comprendido el mundo ha sido el ojo". (J. W. Goethe)
+description:        "El órgano con el que he comprendido el mundo ha sido el ojo". (J. W. Goethe)
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
